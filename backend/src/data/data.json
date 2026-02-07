@@ -1,0 +1,4163 @@
+[
+  {
+    "id": "ee5e3a2c-fe9f-4c13-ba32-cd8e0bbabe82",
+    "title": "Fraud Alert in Kolkata",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2025-12-02T11:43:00.000Z",
+    "location": {
+      "lat": 22.533287772207352,
+      "lng": 88.35410709409456
+    },
+    "metrics": {
+      "score": 14,
+      "confidence": 0.47,
+      "impact": 6
+    },
+    "tags": [
+      "anomaly"
+    ]
+  },
+  {
+    "id": "21af7212-7129-4f59-8604-a7f50e609945",
+    "title": "Ops Alert in Chennai",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2026-01-05T05:58:00.000Z",
+    "location": {
+      "lat": 13.117942423464472,
+      "lng": 80.22552241702708
+    },
+    "metrics": {
+      "score": 16,
+      "confidence": 0.84,
+      "impact": 0
+    },
+    "tags": [
+      "large-transaction",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "5570f020-ff29-4e2e-9a13-672ac233815e",
+    "title": "Health Alert in Mumbai",
+    "description": "Detected potential Health issue with severity Low.",
+    "category": "Health",
+    "severity": "Low",
+    "createdAt": "2025-11-20T09:15:00.000Z",
+    "location": {
+      "lat": 19.09183935024468,
+      "lng": 72.88421138010742
+    },
+    "metrics": {
+      "score": 67,
+      "confidence": 0.71,
+      "impact": 9
+    },
+    "tags": [
+      "anomaly"
+    ]
+  },
+  {
+    "id": "13f9e4cd-888a-48d7-94a8-2e2a23d81c38",
+    "title": "Health Alert in Kolkata",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2025-12-12T00:44:00.000Z",
+    "location": {
+      "lat": 22.580989661745857,
+      "lng": 88.3709315471489
+    },
+    "metrics": {
+      "score": 40,
+      "confidence": 0.26,
+      "impact": 2
+    },
+    "tags": [
+      "large-transaction",
+      "login-fail"
+    ]
+  },
+  {
+    "id": "a08fde29-738e-483a-aa3a-94002b3f1283",
+    "title": "Ops Alert in Mumbai",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2025-12-24T12:24:00.000Z",
+    "location": {
+      "lat": 19.11793780893691,
+      "lng": 72.82947199789736
+    },
+    "metrics": {
+      "score": 30,
+      "confidence": 0.73,
+      "impact": 6
+    },
+    "tags": [
+      "credit-card",
+      "large-transaction",
+      "network-error"
+    ]
+  },
+  {
+    "id": "43943308-ebba-45bd-a6af-8fa33640de7a",
+    "title": "Health Alert in Bangalore",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2026-01-18T00:11:00.000Z",
+    "location": {
+      "lat": 12.948727234600941,
+      "lng": 77.55505700396284
+    },
+    "metrics": {
+      "score": 2,
+      "confidence": 0.77,
+      "impact": 5
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "cc3f6db1-8ec9-4f9c-8050-f054d8dd5a81",
+    "title": "Ops Alert in Mumbai",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2025-12-19T22:29:00.000Z",
+    "location": {
+      "lat": 19.054373764864533,
+      "lng": 72.88252930930253
+    },
+    "metrics": {
+      "score": 44,
+      "confidence": 0.24,
+      "impact": 9
+    },
+    "tags": [
+      "suspicious",
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "ca4c3cde-f812-4e09-a052-a7e8a2032fd9",
+    "title": "Ops Alert in Chennai",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2026-01-10T12:22:00.000Z",
+    "location": {
+      "lat": 13.08456974360902,
+      "lng": 80.23429574533598
+    },
+    "metrics": {
+      "score": 68,
+      "confidence": 0.94,
+      "impact": 3
+    },
+    "tags": [
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "14a0f0e8-513c-413c-9f01-75c527376640",
+    "title": "Fraud Alert in Mumbai",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2025-11-23T13:23:00.000Z",
+    "location": {
+      "lat": 19.05855966277485,
+      "lng": 72.88926041354868
+    },
+    "metrics": {
+      "score": 3,
+      "confidence": 0.29,
+      "impact": 9
+    },
+    "tags": [
+      "network-error",
+      "credit-card",
+      "login-fail"
+    ]
+  },
+  {
+    "id": "6a6e9db9-a7a7-40e1-967d-d758992e828d",
+    "title": "Sales Alert in Hyderabad",
+    "description": "Detected potential Sales issue with severity Low.",
+    "category": "Sales",
+    "severity": "Low",
+    "createdAt": "2026-01-02T01:43:00.000Z",
+    "location": {
+      "lat": 17.361742486700138,
+      "lng": 78.44423248033888
+    },
+    "metrics": {
+      "score": 90,
+      "confidence": 0.39,
+      "impact": 8
+    },
+    "tags": [
+      "login-fail",
+      "anomaly",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "e797079b-01e9-4086-a219-490c16296eb1",
+    "title": "Health Alert in Kolkata",
+    "description": "Detected potential Health issue with severity Low.",
+    "category": "Health",
+    "severity": "Low",
+    "createdAt": "2025-12-22T19:53:00.000Z",
+    "location": {
+      "lat": 22.554427581842027,
+      "lng": 88.38103335550029
+    },
+    "metrics": {
+      "score": 73,
+      "confidence": 0.74,
+      "impact": 5
+    },
+    "tags": [
+      "suspicious",
+      "login-fail"
+    ]
+  },
+  {
+    "id": "b2325936-9158-47cc-835d-f23e3ab60aec",
+    "title": "Fraud Alert in Kolkata",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2026-01-24T10:56:00.000Z",
+    "location": {
+      "lat": 22.599698846708222,
+      "lng": 88.38052640046465
+    },
+    "metrics": {
+      "score": 76,
+      "confidence": 0.45,
+      "impact": 9
+    },
+    "tags": [
+      "anomaly",
+      "large-transaction",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "a135a84b-a2da-44f8-a02c-da075f9e106a",
+    "title": "Fraud Alert in Bangalore",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2026-01-18T01:09:00.000Z",
+    "location": {
+      "lat": 12.957393195490235,
+      "lng": 77.5591657448462
+    },
+    "metrics": {
+      "score": 8,
+      "confidence": 0.19,
+      "impact": 5
+    },
+    "tags": [
+      "anomaly",
+      "suspicious",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "60b153f9-9d78-4c10-a096-ae1e5045af3f",
+    "title": "Ops Alert in Bangalore",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2026-01-07T01:29:00.000Z",
+    "location": {
+      "lat": 12.942902831272555,
+      "lng": 77.61709875971104
+    },
+    "metrics": {
+      "score": 26,
+      "confidence": 0.58,
+      "impact": 7
+    },
+    "tags": [
+      "credit-card",
+      "suspicious",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "0bcf1bfa-a4f3-4fbf-8859-cd601047ca32",
+    "title": "Fraud Alert in Ahmedabad",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2025-11-12T07:48:00.000Z",
+    "location": {
+      "lat": 23.046361937986187,
+      "lng": 72.6006396624646
+    },
+    "metrics": {
+      "score": 75,
+      "confidence": 0.18,
+      "impact": 7
+    },
+    "tags": [
+      "login-fail"
+    ]
+  },
+  {
+    "id": "52b65e4b-1bcc-4777-9dd5-7b81ddf8adb6",
+    "title": "Health Alert in Kolkata",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2025-12-09T04:40:00.000Z",
+    "location": {
+      "lat": 22.52903828466393,
+      "lng": 88.38589371253539
+    },
+    "metrics": {
+      "score": 64,
+      "confidence": 0.86,
+      "impact": 6
+    },
+    "tags": [
+      "suspicious",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "76017670-0341-4020-b1b4-96387c7b2aa8",
+    "title": "Ops Alert in Ahmedabad",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2025-11-24T08:10:00.000Z",
+    "location": {
+      "lat": 23.04156854693491,
+      "lng": 72.58967293344915
+    },
+    "metrics": {
+      "score": 51,
+      "confidence": 0.97,
+      "impact": 8
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "f1a7d608-5c3b-48ae-823d-7a9819704f3e",
+    "title": "Ops Alert in Mumbai",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2026-01-27T23:58:00.000Z",
+    "location": {
+      "lat": 19.118902731032957,
+      "lng": 72.9103395890712
+    },
+    "metrics": {
+      "score": 45,
+      "confidence": 0.41,
+      "impact": 0
+    },
+    "tags": [
+      "network-error",
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "9ff812c4-1d09-4b5b-813d-0e915b9fa8d9",
+    "title": "Ops Alert in Mumbai",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2025-11-15T19:29:00.000Z",
+    "location": {
+      "lat": 19.04092613853258,
+      "lng": 72.87911546447961
+    },
+    "metrics": {
+      "score": 85,
+      "confidence": 0.35,
+      "impact": 9
+    },
+    "tags": [
+      "high-rate"
+    ]
+  },
+  {
+    "id": "f726fc6a-5b4b-4309-a17d-da3024984251",
+    "title": "Sales Alert in Chennai",
+    "description": "Detected potential Sales issue with severity Medium.",
+    "category": "Sales",
+    "severity": "Medium",
+    "createdAt": "2025-11-28T14:09:00.000Z",
+    "location": {
+      "lat": 13.125927865162545,
+      "lng": 80.2271184012337
+    },
+    "metrics": {
+      "score": 69,
+      "confidence": 0.15,
+      "impact": 1
+    },
+    "tags": [
+      "login-fail"
+    ]
+  },
+  {
+    "id": "48174b1d-c63a-40b1-997e-31ec32144441",
+    "title": "Ops Alert in Hyderabad",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2025-12-09T04:44:00.000Z",
+    "location": {
+      "lat": 17.388990365777634,
+      "lng": 78.4781474419729
+    },
+    "metrics": {
+      "score": 8,
+      "confidence": 0.74,
+      "impact": 1
+    },
+    "tags": [
+      "suspicious",
+      "high-rate",
+      "login-fail"
+    ]
+  },
+  {
+    "id": "30ff754e-13e4-4333-a6bc-dab612d4ad3e",
+    "title": "Fraud Alert in Kolkata",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2025-12-24T23:29:00.000Z",
+    "location": {
+      "lat": 22.537845294153538,
+      "lng": 88.33201325541947
+    },
+    "metrics": {
+      "score": 87,
+      "confidence": 0.47,
+      "impact": 0
+    },
+    "tags": [
+      "login-fail"
+    ]
+  },
+  {
+    "id": "b393057b-132f-4edb-b9ff-7df8d7759cbf",
+    "title": "Health Alert in Ahmedabad",
+    "description": "Detected potential Health issue with severity High.",
+    "category": "Health",
+    "severity": "High",
+    "createdAt": "2025-12-06T04:26:00.000Z",
+    "location": {
+      "lat": 22.982635411338254,
+      "lng": 72.54303708185996
+    },
+    "metrics": {
+      "score": 24,
+      "confidence": 0.6,
+      "impact": 10
+    },
+    "tags": [
+      "credit-card",
+      "policy-violation",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "bf04b03a-423f-4a23-982b-fcaa04c1771c",
+    "title": "Health Alert in Mumbai",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2025-12-06T15:38:00.000Z",
+    "location": {
+      "lat": 19.040393278170765,
+      "lng": 72.90034027086045
+    },
+    "metrics": {
+      "score": 16,
+      "confidence": 0.45,
+      "impact": 6
+    },
+    "tags": [
+      "large-transaction",
+      "policy-violation",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "faf2e497-891b-4c1b-ae4c-e55935b486e3",
+    "title": "Safety Alert in Pune",
+    "description": "Detected potential Safety issue with severity Low.",
+    "category": "Safety",
+    "severity": "Low",
+    "createdAt": "2025-12-08T04:03:00.000Z",
+    "location": {
+      "lat": 18.48211815967687,
+      "lng": 73.8197122493396
+    },
+    "metrics": {
+      "score": 59,
+      "confidence": 0.94,
+      "impact": 8
+    },
+    "tags": [
+      "login-fail"
+    ]
+  },
+  {
+    "id": "de4c8b8a-78bd-4755-84f5-ac43d33510cb",
+    "title": "Sales Alert in Delhi",
+    "description": "Detected potential Sales issue with severity High.",
+    "category": "Sales",
+    "severity": "High",
+    "createdAt": "2025-12-09T02:52:00.000Z",
+    "location": {
+      "lat": 28.66421903745348,
+      "lng": 77.09235066718091
+    },
+    "metrics": {
+      "score": 54,
+      "confidence": 0.92,
+      "impact": 0
+    },
+    "tags": [
+      "large-transaction",
+      "credit-card",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "f36f319f-a133-470d-b7b3-4d9973fb84a1",
+    "title": "Safety Alert in Delhi",
+    "description": "Detected potential Safety issue with severity Low.",
+    "category": "Safety",
+    "severity": "Low",
+    "createdAt": "2026-01-12T00:16:00.000Z",
+    "location": {
+      "lat": 28.71248206256805,
+      "lng": 77.12996506236519
+    },
+    "metrics": {
+      "score": 2,
+      "confidence": 0.66,
+      "impact": 7
+    },
+    "tags": [
+      "credit-card",
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "85643b6a-8f50-4170-a0b8-7b3228a86422",
+    "title": "Health Alert in Mumbai",
+    "description": "Detected potential Health issue with severity Low.",
+    "category": "Health",
+    "severity": "Low",
+    "createdAt": "2025-12-15T03:22:00.000Z",
+    "location": {
+      "lat": 19.06411698989088,
+      "lng": 72.91999557487897
+    },
+    "metrics": {
+      "score": 82,
+      "confidence": 0.69,
+      "impact": 5
+    },
+    "tags": [
+      "suspicious",
+      "policy-violation",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "fc11710e-94c9-40fa-a9c5-92b6327b059e",
+    "title": "Fraud Alert in Mumbai",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2025-11-13T18:34:00.000Z",
+    "location": {
+      "lat": 19.066185895345967,
+      "lng": 72.88857945659959
+    },
+    "metrics": {
+      "score": 18,
+      "confidence": 0.57,
+      "impact": 1
+    },
+    "tags": [
+      "login-fail",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "7ea2f361-eac8-47b0-88db-d239c3051392",
+    "title": "Health Alert in Hyderabad",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2026-01-19T01:30:00.000Z",
+    "location": {
+      "lat": 17.346907269717395,
+      "lng": 78.50540477349345
+    },
+    "metrics": {
+      "score": 77,
+      "confidence": 0.13,
+      "impact": 4
+    },
+    "tags": [
+      "anomaly",
+      "credit-card",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "8bd425cb-fbfc-42ea-a295-ed59431cee68",
+    "title": "Health Alert in Chennai",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2025-12-18T08:11:00.000Z",
+    "location": {
+      "lat": 13.053131792505903,
+      "lng": 80.30041207640772
+    },
+    "metrics": {
+      "score": 61,
+      "confidence": 0.47,
+      "impact": 4
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "06aefa20-45f3-4f56-aaec-dddeb824f7ef",
+    "title": "Sales Alert in Bangalore",
+    "description": "Detected potential Sales issue with severity Medium.",
+    "category": "Sales",
+    "severity": "Medium",
+    "createdAt": "2025-11-13T02:50:00.000Z",
+    "location": {
+      "lat": 12.982268596088222,
+      "lng": 77.63137128698769
+    },
+    "metrics": {
+      "score": 59,
+      "confidence": 0.75,
+      "impact": 10
+    },
+    "tags": [
+      "policy-violation",
+      "login-fail"
+    ]
+  },
+  {
+    "id": "ab916f95-37b3-4cc0-acaa-34864349dad1",
+    "title": "Health Alert in Ahmedabad",
+    "description": "Detected potential Health issue with severity High.",
+    "category": "Health",
+    "severity": "High",
+    "createdAt": "2025-12-19T20:58:00.000Z",
+    "location": {
+      "lat": 23.017029944715063,
+      "lng": 72.59540245787662
+    },
+    "metrics": {
+      "score": 27,
+      "confidence": 0.54,
+      "impact": 4
+    },
+    "tags": [
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "da6875d8-931d-4ba1-b73e-ead4f27670c3",
+    "title": "Ops Alert in Hyderabad",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2025-12-07T17:06:00.000Z",
+    "location": {
+      "lat": 17.40160251913455,
+      "lng": 78.47813297985883
+    },
+    "metrics": {
+      "score": 89,
+      "confidence": 0.7,
+      "impact": 3
+    },
+    "tags": [
+      "suspicious",
+      "credit-card",
+      "network-error"
+    ]
+  },
+  {
+    "id": "58bf3012-d191-4d52-91f2-472d5c1cdd55",
+    "title": "Safety Alert in Delhi",
+    "description": "Detected potential Safety issue with severity Medium.",
+    "category": "Safety",
+    "severity": "Medium",
+    "createdAt": "2025-12-26T05:40:00.000Z",
+    "location": {
+      "lat": 28.706193185109353,
+      "lng": 77.11365519025826
+    },
+    "metrics": {
+      "score": 55,
+      "confidence": 0.63,
+      "impact": 9
+    },
+    "tags": [
+      "credit-card",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "6ae69edf-a596-46de-bd2a-7d21dd7e8215",
+    "title": "Ops Alert in Bangalore",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2026-01-03T16:15:00.000Z",
+    "location": {
+      "lat": 12.933956246882449,
+      "lng": 77.61280501075213
+    },
+    "metrics": {
+      "score": 69,
+      "confidence": 0.77,
+      "impact": 4
+    },
+    "tags": [
+      "high-rate",
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "765ebb97-bde6-4cff-bc27-9581defc784c",
+    "title": "Sales Alert in Kolkata",
+    "description": "Detected potential Sales issue with severity Medium.",
+    "category": "Sales",
+    "severity": "Medium",
+    "createdAt": "2025-11-17T21:06:00.000Z",
+    "location": {
+      "lat": 22.618087099538222,
+      "lng": 88.36485572162226
+    },
+    "metrics": {
+      "score": 82,
+      "confidence": 0.67,
+      "impact": 3
+    },
+    "tags": [
+      "anomaly",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "7aaabb9c-99d9-4d38-a982-0ef111693aad",
+    "title": "Fraud Alert in Mumbai",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2025-12-07T11:49:00.000Z",
+    "location": {
+      "lat": 19.095288489140785,
+      "lng": 72.84501854134926
+    },
+    "metrics": {
+      "score": 4,
+      "confidence": 0.74,
+      "impact": 9
+    },
+    "tags": [
+      "suspicious",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "9b5c3bce-c7e4-4325-bb97-a0cff514787f",
+    "title": "Sales Alert in Delhi",
+    "description": "Detected potential Sales issue with severity Medium.",
+    "category": "Sales",
+    "severity": "Medium",
+    "createdAt": "2025-12-13T08:16:00.000Z",
+    "location": {
+      "lat": 28.672886483735958,
+      "lng": 77.12752854853485
+    },
+    "metrics": {
+      "score": 74,
+      "confidence": 0.45,
+      "impact": 0
+    },
+    "tags": [
+      "anomaly",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "fc4c7f6c-60a3-4cbc-a787-d79802a3c721",
+    "title": "Ops Alert in Mumbai",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2025-11-23T17:29:00.000Z",
+    "location": {
+      "lat": 19.079529790912513,
+      "lng": 72.91199138981926
+    },
+    "metrics": {
+      "score": 57,
+      "confidence": 0.33,
+      "impact": 3
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "ab165bd2-3d92-410a-b218-895fbcbb1070",
+    "title": "Safety Alert in Bangalore",
+    "description": "Detected potential Safety issue with severity High.",
+    "category": "Safety",
+    "severity": "High",
+    "createdAt": "2025-12-23T23:52:00.000Z",
+    "location": {
+      "lat": 12.950018386349328,
+      "lng": 77.62427668558742
+    },
+    "metrics": {
+      "score": 63,
+      "confidence": 0.3,
+      "impact": 6
+    },
+    "tags": [
+      "suspicious"
+    ]
+  },
+  {
+    "id": "2c92766f-3979-4329-9546-ba3c43add1d3",
+    "title": "Safety Alert in Delhi",
+    "description": "Detected potential Safety issue with severity High.",
+    "category": "Safety",
+    "severity": "High",
+    "createdAt": "2026-01-12T04:33:00.000Z",
+    "location": {
+      "lat": 28.712334569327744,
+      "lng": 77.12334654617898
+    },
+    "metrics": {
+      "score": 74,
+      "confidence": 0.75,
+      "impact": 1
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "dfba9261-f33e-4dda-9c11-cc204d305145",
+    "title": "Fraud Alert in Hyderabad",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2026-01-07T11:57:00.000Z",
+    "location": {
+      "lat": 17.404653082021866,
+      "lng": 78.4614121227852
+    },
+    "metrics": {
+      "score": 41,
+      "confidence": 0.65,
+      "impact": 7
+    },
+    "tags": [
+      "login-fail",
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "4601eba9-6892-4420-a06c-bd1a456e1b19",
+    "title": "Fraud Alert in Chennai",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2026-01-27T02:21:00.000Z",
+    "location": {
+      "lat": 13.044261358989994,
+      "lng": 80.27809234623426
+    },
+    "metrics": {
+      "score": 54,
+      "confidence": 0.4,
+      "impact": 9
+    },
+    "tags": [
+      "policy-violation",
+      "credit-card",
+      "login-fail"
+    ]
+  },
+  {
+    "id": "4a171d5e-47b4-4042-b52a-6470015505de",
+    "title": "Health Alert in Delhi",
+    "description": "Detected potential Health issue with severity Low.",
+    "category": "Health",
+    "severity": "Low",
+    "createdAt": "2025-12-19T06:57:00.000Z",
+    "location": {
+      "lat": 28.74250917480141,
+      "lng": 77.09614500825515
+    },
+    "metrics": {
+      "score": 44,
+      "confidence": 0.39,
+      "impact": 4
+    },
+    "tags": [
+      "high-rate",
+      "network-error"
+    ]
+  },
+  {
+    "id": "4b268c2a-7af8-4297-b40c-930ecf5468b9",
+    "title": "Sales Alert in Mumbai",
+    "description": "Detected potential Sales issue with severity Low.",
+    "category": "Sales",
+    "severity": "Low",
+    "createdAt": "2025-11-11T08:04:00.000Z",
+    "location": {
+      "lat": 19.117014791864737,
+      "lng": 72.89430500018237
+    },
+    "metrics": {
+      "score": 7,
+      "confidence": 0.78,
+      "impact": 5
+    },
+    "tags": [
+      "suspicious"
+    ]
+  },
+  {
+    "id": "8a56d310-070e-4ece-99f8-6310d80cbf99",
+    "title": "Health Alert in Delhi",
+    "description": "Detected potential Health issue with severity High.",
+    "category": "Health",
+    "severity": "High",
+    "createdAt": "2026-01-08T06:32:00.000Z",
+    "location": {
+      "lat": 28.752023027981767,
+      "lng": 77.0599914548074
+    },
+    "metrics": {
+      "score": 51,
+      "confidence": 0.74,
+      "impact": 10
+    },
+    "tags": [
+      "login-fail"
+    ]
+  },
+  {
+    "id": "2f49b7c3-a98b-4c42-9853-bbe3c4919d2f",
+    "title": "Ops Alert in Mumbai",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2025-12-04T15:08:00.000Z",
+    "location": {
+      "lat": 19.085660330434063,
+      "lng": 72.85095718070086
+    },
+    "metrics": {
+      "score": 23,
+      "confidence": 0.8,
+      "impact": 8
+    },
+    "tags": [
+      "network-error",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "6ebfa2bc-83bf-4208-b2c4-2aea1b2b96e2",
+    "title": "Fraud Alert in Delhi",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2025-11-13T15:14:00.000Z",
+    "location": {
+      "lat": 28.728230479533888,
+      "lng": 77.08792318143685
+    },
+    "metrics": {
+      "score": 91,
+      "confidence": 0.55,
+      "impact": 3
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "335d964b-0f34-4544-8c75-1fcd0bf1e926",
+    "title": "Fraud Alert in Ahmedabad",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2025-11-21T13:45:00.000Z",
+    "location": {
+      "lat": 22.972611402730866,
+      "lng": 72.56020173828757
+    },
+    "metrics": {
+      "score": 49,
+      "confidence": 0.44,
+      "impact": 9
+    },
+    "tags": [
+      "policy-violation",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "05b2b27d-9059-4bfc-9dc4-e2921c8cf709",
+    "title": "Sales Alert in Mumbai",
+    "description": "Detected potential Sales issue with severity Low.",
+    "category": "Sales",
+    "severity": "Low",
+    "createdAt": "2025-12-10T13:31:00.000Z",
+    "location": {
+      "lat": 19.08440845655303,
+      "lng": 72.90471387761987
+    },
+    "metrics": {
+      "score": 25,
+      "confidence": 0.46,
+      "impact": 3
+    },
+    "tags": [
+      "network-error"
+    ]
+  },
+  {
+    "id": "ed7ac8b8-3ffd-4111-8d4d-dddbf90ef5f3",
+    "title": "Health Alert in Pune",
+    "description": "Detected potential Health issue with severity Low.",
+    "category": "Health",
+    "severity": "Low",
+    "createdAt": "2026-02-03T03:36:00.000Z",
+    "location": {
+      "lat": 18.554503187083867,
+      "lng": 73.88979368781652
+    },
+    "metrics": {
+      "score": 19,
+      "confidence": 0.96,
+      "impact": 6
+    },
+    "tags": [
+      "high-rate"
+    ]
+  },
+  {
+    "id": "46cb5b0b-63e9-4e31-b662-2879bef962d5",
+    "title": "Safety Alert in Pune",
+    "description": "Detected potential Safety issue with severity Medium.",
+    "category": "Safety",
+    "severity": "Medium",
+    "createdAt": "2026-02-01T10:20:00.000Z",
+    "location": {
+      "lat": 18.5412850921427,
+      "lng": 73.86583820925985
+    },
+    "metrics": {
+      "score": 22,
+      "confidence": 0.71,
+      "impact": 8
+    },
+    "tags": [
+      "credit-card",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "69618235-6dfb-4785-b243-6c9565b843dc",
+    "title": "Sales Alert in Chennai",
+    "description": "Detected potential Sales issue with severity Medium.",
+    "category": "Sales",
+    "severity": "Medium",
+    "createdAt": "2026-01-14T20:55:00.000Z",
+    "location": {
+      "lat": 13.08844472472228,
+      "lng": 80.24784355824383
+    },
+    "metrics": {
+      "score": 61,
+      "confidence": 0.59,
+      "impact": 1
+    },
+    "tags": [
+      "network-error",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "a0dc6812-e15d-4a9c-9665-c3859615e597",
+    "title": "Safety Alert in Chennai",
+    "description": "Detected potential Safety issue with severity High.",
+    "category": "Safety",
+    "severity": "High",
+    "createdAt": "2025-11-22T13:10:00.000Z",
+    "location": {
+      "lat": 13.129666667592074,
+      "lng": 80.23129984587047
+    },
+    "metrics": {
+      "score": 7,
+      "confidence": 0.4,
+      "impact": 6
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "3d3a0283-31d2-499a-8788-5499b90044dc",
+    "title": "Fraud Alert in Chennai",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2026-01-10T04:18:00.000Z",
+    "location": {
+      "lat": 13.104797458557838,
+      "lng": 80.31853053647896
+    },
+    "metrics": {
+      "score": 3,
+      "confidence": 0.81,
+      "impact": 5
+    },
+    "tags": [
+      "login-fail",
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "1b4949d0-a5e5-4872-bf75-e478cc147be5",
+    "title": "Ops Alert in Bangalore",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2026-02-05T05:59:00.000Z",
+    "location": {
+      "lat": 12.996579688430593,
+      "lng": 77.63939023230006
+    },
+    "metrics": {
+      "score": 62,
+      "confidence": 0.66,
+      "impact": 9
+    },
+    "tags": [
+      "high-rate",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "56e2f8cf-0f6f-4374-a555-653028efe8ed",
+    "title": "Safety Alert in Kolkata",
+    "description": "Detected potential Safety issue with severity Medium.",
+    "category": "Safety",
+    "severity": "Medium",
+    "createdAt": "2025-11-25T12:28:00.000Z",
+    "location": {
+      "lat": 22.559187796971695,
+      "lng": 88.35298145190468
+    },
+    "metrics": {
+      "score": 80,
+      "confidence": 0.84,
+      "impact": 3
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "da6ca573-8454-435e-a3ae-01ad203d20c6",
+    "title": "Ops Alert in Hyderabad",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2025-12-10T23:22:00.000Z",
+    "location": {
+      "lat": 17.4227202941128,
+      "lng": 78.47543209983696
+    },
+    "metrics": {
+      "score": 5,
+      "confidence": 0.79,
+      "impact": 5
+    },
+    "tags": [
+      "login-fail"
+    ]
+  },
+  {
+    "id": "580760b5-e158-4f43-9e11-7c573d4cb39c",
+    "title": "Ops Alert in Kolkata",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2025-12-07T06:12:00.000Z",
+    "location": {
+      "lat": 22.578460874344124,
+      "lng": 88.39472333484758
+    },
+    "metrics": {
+      "score": 76,
+      "confidence": 0.55,
+      "impact": 0
+    },
+    "tags": [
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "074f5faa-5cdc-4e93-ae74-60a3d42a4f8f",
+    "title": "Ops Alert in Ahmedabad",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2026-01-12T06:40:00.000Z",
+    "location": {
+      "lat": 23.03581437025748,
+      "lng": 72.54895441854165
+    },
+    "metrics": {
+      "score": 39,
+      "confidence": 0.51,
+      "impact": 6
+    },
+    "tags": [
+      "anomaly"
+    ]
+  },
+  {
+    "id": "5cc8968d-9082-4969-a412-58b616b251a3",
+    "title": "Fraud Alert in Chennai",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2026-01-30T07:34:00.000Z",
+    "location": {
+      "lat": 13.048165177456276,
+      "lng": 80.22720754385014
+    },
+    "metrics": {
+      "score": 42,
+      "confidence": 0.4,
+      "impact": 4
+    },
+    "tags": [
+      "suspicious"
+    ]
+  },
+  {
+    "id": "773acf62-aa15-465c-95f8-db7c47529025",
+    "title": "Sales Alert in Ahmedabad",
+    "description": "Detected potential Sales issue with severity High.",
+    "category": "Sales",
+    "severity": "High",
+    "createdAt": "2026-01-15T05:54:00.000Z",
+    "location": {
+      "lat": 23.010517340391516,
+      "lng": 72.5343890149542
+    },
+    "metrics": {
+      "score": 32,
+      "confidence": 0.89,
+      "impact": 7
+    },
+    "tags": [
+      "suspicious",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "8239f1f6-8f8b-4e80-83a9-c67eae7c05e4",
+    "title": "Ops Alert in Mumbai",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2026-01-10T16:17:00.000Z",
+    "location": {
+      "lat": 19.078324765920062,
+      "lng": 72.82805861219313
+    },
+    "metrics": {
+      "score": 50,
+      "confidence": 0.57,
+      "impact": 5
+    },
+    "tags": [
+      "high-rate"
+    ]
+  },
+  {
+    "id": "b26d21fc-230a-4a82-b10c-605bc813a6be",
+    "title": "Sales Alert in Chennai",
+    "description": "Detected potential Sales issue with severity Medium.",
+    "category": "Sales",
+    "severity": "Medium",
+    "createdAt": "2025-11-17T19:23:00.000Z",
+    "location": {
+      "lat": 13.061048656545958,
+      "lng": 80.23234659728834
+    },
+    "metrics": {
+      "score": 23,
+      "confidence": 0.47,
+      "impact": 1
+    },
+    "tags": [
+      "large-transaction",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "6d5394a1-8aca-4439-919e-d17e7bac2b09",
+    "title": "Ops Alert in Pune",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2025-12-06T23:47:00.000Z",
+    "location": {
+      "lat": 18.51827276778641,
+      "lng": 73.8528840945132
+    },
+    "metrics": {
+      "score": 69,
+      "confidence": 0.37,
+      "impact": 10
+    },
+    "tags": [
+      "anomaly"
+    ]
+  },
+  {
+    "id": "d48f9c0d-7165-4345-969b-045cecdb727e",
+    "title": "Ops Alert in Kolkata",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2025-11-13T11:30:00.000Z",
+    "location": {
+      "lat": 22.53553627059295,
+      "lng": 88.3975654665495
+    },
+    "metrics": {
+      "score": 54,
+      "confidence": 0.6,
+      "impact": 10
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "b1932571-b8d1-4e32-9b9c-4ae31c8099ae",
+    "title": "Ops Alert in Mumbai",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2026-02-04T16:40:00.000Z",
+    "location": {
+      "lat": 19.07514269919278,
+      "lng": 72.87075423583597
+    },
+    "metrics": {
+      "score": 1,
+      "confidence": 0.37,
+      "impact": 8
+    },
+    "tags": [
+      "high-rate",
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "7f0e1dbd-848a-41c7-97b2-5f1338763b0c",
+    "title": "Fraud Alert in Ahmedabad",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2025-12-29T17:13:00.000Z",
+    "location": {
+      "lat": 22.979561359475806,
+      "lng": 72.55390657968337
+    },
+    "metrics": {
+      "score": 5,
+      "confidence": 0.48,
+      "impact": 2
+    },
+    "tags": [
+      "high-rate"
+    ]
+  },
+  {
+    "id": "1bebcfbc-27df-4874-ba44-0567c3d98410",
+    "title": "Ops Alert in Mumbai",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2026-02-02T21:38:00.000Z",
+    "location": {
+      "lat": 19.07838179267722,
+      "lng": 72.85237903717223
+    },
+    "metrics": {
+      "score": 90,
+      "confidence": 0.34,
+      "impact": 3
+    },
+    "tags": [
+      "anomaly",
+      "suspicious",
+      "login-fail"
+    ]
+  },
+  {
+    "id": "096f5029-a29a-49ee-8d80-6990bbb4f81f",
+    "title": "Fraud Alert in Mumbai",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2026-01-11T14:14:00.000Z",
+    "location": {
+      "lat": 19.08960866698741,
+      "lng": 72.9210165587261
+    },
+    "metrics": {
+      "score": 68,
+      "confidence": 0.4,
+      "impact": 1
+    },
+    "tags": [
+      "credit-card",
+      "network-error"
+    ]
+  },
+  {
+    "id": "5e429686-97c8-4ba1-afc9-c51809a57eba",
+    "title": "Fraud Alert in Mumbai",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2025-12-24T23:38:00.000Z",
+    "location": {
+      "lat": 19.026980922347274,
+      "lng": 72.88567951895574
+    },
+    "metrics": {
+      "score": 100,
+      "confidence": 0.89,
+      "impact": 0
+    },
+    "tags": [
+      "policy-violation",
+      "suspicious",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "d30430e5-4fe2-42dd-a209-ec4265c67aa1",
+    "title": "Fraud Alert in Hyderabad",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2025-12-22T14:08:00.000Z",
+    "location": {
+      "lat": 17.372341632668498,
+      "lng": 78.53603139287083
+    },
+    "metrics": {
+      "score": 79,
+      "confidence": 0.77,
+      "impact": 4
+    },
+    "tags": [
+      "large-transaction",
+      "login-fail",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "4e311710-1fcd-48fd-b9b2-3406b325f170",
+    "title": "Fraud Alert in Delhi",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2025-12-06T06:19:00.000Z",
+    "location": {
+      "lat": 28.68044714913178,
+      "lng": 77.11087718759435
+    },
+    "metrics": {
+      "score": 89,
+      "confidence": 0.35,
+      "impact": 8
+    },
+    "tags": [
+      "high-rate"
+    ]
+  },
+  {
+    "id": "06f63979-5a96-4dcc-bfd9-bc0ee397e045",
+    "title": "Fraud Alert in Delhi",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2025-12-05T21:28:00.000Z",
+    "location": {
+      "lat": 28.6878323112558,
+      "lng": 77.05835405147116
+    },
+    "metrics": {
+      "score": 0,
+      "confidence": 0.12,
+      "impact": 10
+    },
+    "tags": [
+      "anomaly",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "19021583-729a-403b-a5ed-4a4d777990e7",
+    "title": "Ops Alert in Chennai",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2026-01-20T06:44:00.000Z",
+    "location": {
+      "lat": 13.11513267722996,
+      "lng": 80.31638466297245
+    },
+    "metrics": {
+      "score": 42,
+      "confidence": 0.3,
+      "impact": 2
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "e1f77303-9b1c-41a5-9947-bf1b2072b2cd",
+    "title": "Ops Alert in Ahmedabad",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2026-01-26T13:24:00.000Z",
+    "location": {
+      "lat": 22.997923790719362,
+      "lng": 72.593595198768
+    },
+    "metrics": {
+      "score": 31,
+      "confidence": 0.72,
+      "impact": 9
+    },
+    "tags": [
+      "anomaly",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "75266896-ebe6-432d-9e5d-2077db49b504",
+    "title": "Ops Alert in Delhi",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2026-01-19T00:34:00.000Z",
+    "location": {
+      "lat": 28.656698695072937,
+      "lng": 77.08623187081167
+    },
+    "metrics": {
+      "score": 94,
+      "confidence": 0.58,
+      "impact": 10
+    },
+    "tags": [
+      "credit-card",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "96aacf40-faec-4ea0-8210-7432cc75c9dc",
+    "title": "Ops Alert in Chennai",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2026-01-14T01:47:00.000Z",
+    "location": {
+      "lat": 13.125426264200502,
+      "lng": 80.306774630435
+    },
+    "metrics": {
+      "score": 23,
+      "confidence": 0.9,
+      "impact": 4
+    },
+    "tags": [
+      "high-rate",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "9322eb14-90e9-46c7-97c0-98eccfaab93d",
+    "title": "Ops Alert in Bangalore",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2026-01-31T01:18:00.000Z",
+    "location": {
+      "lat": 12.934552565833853,
+      "lng": 77.55401247319516
+    },
+    "metrics": {
+      "score": 75,
+      "confidence": 0.2,
+      "impact": 2
+    },
+    "tags": [
+      "login-fail"
+    ]
+  },
+  {
+    "id": "58cb0401-f2a1-46ed-9a74-e74b6bdcfb7a",
+    "title": "Ops Alert in Mumbai",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2026-01-18T00:19:00.000Z",
+    "location": {
+      "lat": 19.037245330258656,
+      "lng": 72.8614327286372
+    },
+    "metrics": {
+      "score": 96,
+      "confidence": 0.22,
+      "impact": 2
+    },
+    "tags": [
+      "anomaly",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "9c1059a7-fe4f-4b0a-9fc2-952120ec4970",
+    "title": "Health Alert in Hyderabad",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2026-01-29T21:00:00.000Z",
+    "location": {
+      "lat": 17.426114260099876,
+      "lng": 78.46307393634805
+    },
+    "metrics": {
+      "score": 64,
+      "confidence": 0.53,
+      "impact": 3
+    },
+    "tags": [
+      "high-rate",
+      "network-error"
+    ]
+  },
+  {
+    "id": "8ced5ac2-2e15-47e5-aaaa-68b0e578976f",
+    "title": "Ops Alert in Pune",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2025-12-19T09:50:00.000Z",
+    "location": {
+      "lat": 18.485914199840032,
+      "lng": 73.89381731859491
+    },
+    "metrics": {
+      "score": 7,
+      "confidence": 0.2,
+      "impact": 10
+    },
+    "tags": [
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "fde73c1f-104d-4eaf-8f10-9ba77fd272ee",
+    "title": "Ops Alert in Kolkata",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2025-12-26T13:19:00.000Z",
+    "location": {
+      "lat": 22.523839769544185,
+      "lng": 88.35079207603385
+    },
+    "metrics": {
+      "score": 79,
+      "confidence": 0.79,
+      "impact": 9
+    },
+    "tags": [
+      "policy-violation",
+      "login-fail"
+    ]
+  },
+  {
+    "id": "608e54e7-0223-4d67-aeba-e0717ecf68c8",
+    "title": "Safety Alert in Bangalore",
+    "description": "Detected potential Safety issue with severity Low.",
+    "category": "Safety",
+    "severity": "Low",
+    "createdAt": "2025-11-13T08:04:00.000Z",
+    "location": {
+      "lat": 12.9502729665581,
+      "lng": 77.6389009490621
+    },
+    "metrics": {
+      "score": 69,
+      "confidence": 0.77,
+      "impact": 1
+    },
+    "tags": [
+      "suspicious",
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "6f0c246f-2f0e-4ea2-8fcd-8bec08fc5ec7",
+    "title": "Fraud Alert in Ahmedabad",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2026-01-24T22:24:00.000Z",
+    "location": {
+      "lat": 23.06569609718774,
+      "lng": 72.58689895420319
+    },
+    "metrics": {
+      "score": 98,
+      "confidence": 0.55,
+      "impact": 5
+    },
+    "tags": [
+      "high-rate"
+    ]
+  },
+  {
+    "id": "7c3d6819-f7a6-4192-af28-34dbe17f1c29",
+    "title": "Sales Alert in Kolkata",
+    "description": "Detected potential Sales issue with severity Medium.",
+    "category": "Sales",
+    "severity": "Medium",
+    "createdAt": "2025-12-15T08:20:00.000Z",
+    "location": {
+      "lat": 22.615248618092057,
+      "lng": 88.3423358780187
+    },
+    "metrics": {
+      "score": 72,
+      "confidence": 0.94,
+      "impact": 3
+    },
+    "tags": [
+      "login-fail",
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "7d56954d-4336-44a5-9d8d-bc8ee6002eb7",
+    "title": "Sales Alert in Chennai",
+    "description": "Detected potential Sales issue with severity Low.",
+    "category": "Sales",
+    "severity": "Low",
+    "createdAt": "2025-12-14T08:39:00.000Z",
+    "location": {
+      "lat": 13.091456472081008,
+      "lng": 80.25930854628479
+    },
+    "metrics": {
+      "score": 0,
+      "confidence": 0.55,
+      "impact": 6
+    },
+    "tags": [
+      "login-fail",
+      "anomaly",
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "4437877b-c963-4182-8279-fcf44caba335",
+    "title": "Sales Alert in Pune",
+    "description": "Detected potential Sales issue with severity High.",
+    "category": "Sales",
+    "severity": "High",
+    "createdAt": "2026-01-14T18:28:00.000Z",
+    "location": {
+      "lat": 18.51843497251369,
+      "lng": 73.88958873552532
+    },
+    "metrics": {
+      "score": 35,
+      "confidence": 0.22,
+      "impact": 2
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "fbe92b99-3400-43f0-bb6f-c053eeee4134",
+    "title": "Health Alert in Hyderabad",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2026-01-02T12:52:00.000Z",
+    "location": {
+      "lat": 17.41095436638003,
+      "lng": 78.50911523185574
+    },
+    "metrics": {
+      "score": 5,
+      "confidence": 0.43,
+      "impact": 2
+    },
+    "tags": [
+      "high-rate",
+      "large-transaction",
+      "login-fail"
+    ]
+  },
+  {
+    "id": "8f4e2eaa-09ce-48a1-882f-96d54d033ca7",
+    "title": "Safety Alert in Ahmedabad",
+    "description": "Detected potential Safety issue with severity Low.",
+    "category": "Safety",
+    "severity": "Low",
+    "createdAt": "2025-11-30T14:53:00.000Z",
+    "location": {
+      "lat": 23.029166060518705,
+      "lng": 72.54159278265958
+    },
+    "metrics": {
+      "score": 12,
+      "confidence": 0.93,
+      "impact": 6
+    },
+    "tags": [
+      "network-error",
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "e90c3cb2-9cbe-49b0-a172-0b30c809cbf0",
+    "title": "Fraud Alert in Ahmedabad",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2025-12-07T07:45:00.000Z",
+    "location": {
+      "lat": 23.014382463055735,
+      "lng": 72.56992959958825
+    },
+    "metrics": {
+      "score": 89,
+      "confidence": 0.23,
+      "impact": 7
+    },
+    "tags": [
+      "login-fail"
+    ]
+  },
+  {
+    "id": "64464dff-b5e4-41e1-9042-7517972bd0e7",
+    "title": "Ops Alert in Kolkata",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2025-11-12T23:19:00.000Z",
+    "location": {
+      "lat": 22.54662883707669,
+      "lng": 88.39570370422072
+    },
+    "metrics": {
+      "score": 99,
+      "confidence": 0.53,
+      "impact": 5
+    },
+    "tags": [
+      "policy-violation",
+      "login-fail",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "0fc46fc4-3654-4fb1-80b4-1ee636b977a8",
+    "title": "Sales Alert in Mumbai",
+    "description": "Detected potential Sales issue with severity High.",
+    "category": "Sales",
+    "severity": "High",
+    "createdAt": "2026-01-28T13:46:00.000Z",
+    "location": {
+      "lat": 19.100840731556975,
+      "lng": 72.9119425392074
+    },
+    "metrics": {
+      "score": 66,
+      "confidence": 0.27,
+      "impact": 9
+    },
+    "tags": [
+      "large-transaction",
+      "credit-card",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "dd4dae5a-3e11-46ec-8f8f-483eadefbd3f",
+    "title": "Safety Alert in Bangalore",
+    "description": "Detected potential Safety issue with severity High.",
+    "category": "Safety",
+    "severity": "High",
+    "createdAt": "2025-12-19T19:46:00.000Z",
+    "location": {
+      "lat": 12.934645590584608,
+      "lng": 77.63197775907258
+    },
+    "metrics": {
+      "score": 94,
+      "confidence": 0.26,
+      "impact": 2
+    },
+    "tags": [
+      "suspicious",
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "e0f2f50a-a28f-4311-a847-8051188e4c6c",
+    "title": "Health Alert in Hyderabad",
+    "description": "Detected potential Health issue with severity High.",
+    "category": "Health",
+    "severity": "High",
+    "createdAt": "2025-11-27T13:29:00.000Z",
+    "location": {
+      "lat": 17.34852106284877,
+      "lng": 78.4571689328495
+    },
+    "metrics": {
+      "score": 57,
+      "confidence": 0.23,
+      "impact": 0
+    },
+    "tags": [
+      "large-transaction",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "c424a13c-8ccc-413b-a210-a1f0142290be",
+    "title": "Sales Alert in Chennai",
+    "description": "Detected potential Sales issue with severity Medium.",
+    "category": "Sales",
+    "severity": "Medium",
+    "createdAt": "2026-01-06T17:40:00.000Z",
+    "location": {
+      "lat": 13.110252185741,
+      "lng": 80.26237297922465
+    },
+    "metrics": {
+      "score": 13,
+      "confidence": 0.1,
+      "impact": 3
+    },
+    "tags": [
+      "credit-card",
+      "network-error"
+    ]
+  },
+  {
+    "id": "dae816ca-0604-4b16-8c46-b21b1f77bc02",
+    "title": "Fraud Alert in Ahmedabad",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2025-12-22T20:41:00.000Z",
+    "location": {
+      "lat": 22.982166287795813,
+      "lng": 72.52316628586675
+    },
+    "metrics": {
+      "score": 32,
+      "confidence": 0.56,
+      "impact": 1
+    },
+    "tags": [
+      "policy-violation",
+      "anomaly",
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "8495d1e6-c1cd-4f1c-a613-324b51bc1a6d",
+    "title": "Fraud Alert in Chennai",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2025-12-16T02:25:00.000Z",
+    "location": {
+      "lat": 13.062190832490062,
+      "lng": 80.25410298490159
+    },
+    "metrics": {
+      "score": 49,
+      "confidence": 0.74,
+      "impact": 2
+    },
+    "tags": [
+      "login-fail",
+      "network-error",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "78a7d6ff-3a82-441c-a3c0-e557eee3949b",
+    "title": "Health Alert in Kolkata",
+    "description": "Detected potential Health issue with severity High.",
+    "category": "Health",
+    "severity": "High",
+    "createdAt": "2026-01-21T08:47:00.000Z",
+    "location": {
+      "lat": 22.540082744817262,
+      "lng": 88.35886252099895
+    },
+    "metrics": {
+      "score": 61,
+      "confidence": 0.4,
+      "impact": 0
+    },
+    "tags": [
+      "network-error"
+    ]
+  },
+  {
+    "id": "3ce25d81-ed82-4a25-b28e-338966f4a9b2",
+    "title": "Sales Alert in Mumbai",
+    "description": "Detected potential Sales issue with severity High.",
+    "category": "Sales",
+    "severity": "High",
+    "createdAt": "2025-11-19T13:53:00.000Z",
+    "location": {
+      "lat": 19.073091712063427,
+      "lng": 72.9173410407371
+    },
+    "metrics": {
+      "score": 30,
+      "confidence": 0.21,
+      "impact": 8
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "8ddb0005-9acd-4b87-88f9-8e2cc41f3efe",
+    "title": "Sales Alert in Kolkata",
+    "description": "Detected potential Sales issue with severity Medium.",
+    "category": "Sales",
+    "severity": "Medium",
+    "createdAt": "2025-11-22T21:42:00.000Z",
+    "location": {
+      "lat": 22.59924465571632,
+      "lng": 88.31964243315177
+    },
+    "metrics": {
+      "score": 89,
+      "confidence": 0.56,
+      "impact": 9
+    },
+    "tags": [
+      "network-error"
+    ]
+  },
+  {
+    "id": "6d93cf0d-973b-4d24-8b40-8403c02e3902",
+    "title": "Ops Alert in Hyderabad",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2026-01-03T07:14:00.000Z",
+    "location": {
+      "lat": 17.372643022215716,
+      "lng": 78.48398950921698
+    },
+    "metrics": {
+      "score": 12,
+      "confidence": 0.45,
+      "impact": 7
+    },
+    "tags": [
+      "credit-card",
+      "policy-violation",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "c36a087f-303b-4be1-8e59-e6ebe6dd4897",
+    "title": "Sales Alert in Chennai",
+    "description": "Detected potential Sales issue with severity Low.",
+    "category": "Sales",
+    "severity": "Low",
+    "createdAt": "2025-11-24T02:03:00.000Z",
+    "location": {
+      "lat": 13.125060895528476,
+      "lng": 80.30403604680417
+    },
+    "metrics": {
+      "score": 1,
+      "confidence": 0.69,
+      "impact": 3
+    },
+    "tags": [
+      "credit-card",
+      "anomaly",
+      "network-error"
+    ]
+  },
+  {
+    "id": "7728b5b7-d57f-49a6-aab8-ae2965da5df1",
+    "title": "Fraud Alert in Pune",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2025-12-31T13:20:00.000Z",
+    "location": {
+      "lat": 18.50115480545977,
+      "lng": 73.82901039706465
+    },
+    "metrics": {
+      "score": 98,
+      "confidence": 0.8,
+      "impact": 9
+    },
+    "tags": [
+      "suspicious"
+    ]
+  },
+  {
+    "id": "333b78fc-875f-4e6b-a584-bab218dd529b",
+    "title": "Ops Alert in Pune",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2025-12-13T06:26:00.000Z",
+    "location": {
+      "lat": 18.47301770584549,
+      "lng": 73.87924780663437
+    },
+    "metrics": {
+      "score": 85,
+      "confidence": 0.18,
+      "impact": 0
+    },
+    "tags": [
+      "network-error",
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "510529c6-b252-44c0-81bb-44f7c9566b25",
+    "title": "Safety Alert in Chennai",
+    "description": "Detected potential Safety issue with severity Medium.",
+    "category": "Safety",
+    "severity": "Medium",
+    "createdAt": "2025-11-12T21:49:00.000Z",
+    "location": {
+      "lat": 13.102581600892597,
+      "lng": 80.25497230796171
+    },
+    "metrics": {
+      "score": 54,
+      "confidence": 0.86,
+      "impact": 4
+    },
+    "tags": [
+      "login-fail",
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "19f8706e-277e-4386-9695-c86312bc72ec",
+    "title": "Fraud Alert in Pune",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2025-11-28T00:51:00.000Z",
+    "location": {
+      "lat": 18.520735658651915,
+      "lng": 73.8756713430685
+    },
+    "metrics": {
+      "score": 4,
+      "confidence": 0.79,
+      "impact": 9
+    },
+    "tags": [
+      "login-fail",
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "751defe1-a2b2-4b10-b1ba-4199396c102d",
+    "title": "Ops Alert in Pune",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2026-01-14T08:24:00.000Z",
+    "location": {
+      "lat": 18.487403041115915,
+      "lng": 73.81237315324786
+    },
+    "metrics": {
+      "score": 5,
+      "confidence": 0.89,
+      "impact": 7
+    },
+    "tags": [
+      "network-error"
+    ]
+  },
+  {
+    "id": "378d2eb4-4e5f-48fb-9df0-df9505f400fc",
+    "title": "Safety Alert in Kolkata",
+    "description": "Detected potential Safety issue with severity Low.",
+    "category": "Safety",
+    "severity": "Low",
+    "createdAt": "2025-11-11T15:48:00.000Z",
+    "location": {
+      "lat": 22.548610123110365,
+      "lng": 88.34751437270239
+    },
+    "metrics": {
+      "score": 14,
+      "confidence": 0.61,
+      "impact": 9
+    },
+    "tags": [
+      "credit-card",
+      "network-error"
+    ]
+  },
+  {
+    "id": "b0f5cb25-d55b-4c43-b7ee-dce355fce829",
+    "title": "Health Alert in Delhi",
+    "description": "Detected potential Health issue with severity Low.",
+    "category": "Health",
+    "severity": "Low",
+    "createdAt": "2025-12-16T00:10:00.000Z",
+    "location": {
+      "lat": 28.690776080758265,
+      "lng": 77.0582282494646
+    },
+    "metrics": {
+      "score": 45,
+      "confidence": 0.55,
+      "impact": 3
+    },
+    "tags": [
+      "login-fail"
+    ]
+  },
+  {
+    "id": "ae9354b4-12cc-438d-9676-f9a6c1d46c7b",
+    "title": "Fraud Alert in Pune",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2025-12-01T18:49:00.000Z",
+    "location": {
+      "lat": 18.560633454021726,
+      "lng": 73.88805551832732
+    },
+    "metrics": {
+      "score": 15,
+      "confidence": 0.31,
+      "impact": 2
+    },
+    "tags": [
+      "network-error"
+    ]
+  },
+  {
+    "id": "a699f117-2ec3-4da3-9885-e37f5236ef90",
+    "title": "Sales Alert in Bangalore",
+    "description": "Detected potential Sales issue with severity Low.",
+    "category": "Sales",
+    "severity": "Low",
+    "createdAt": "2025-12-13T05:22:00.000Z",
+    "location": {
+      "lat": 12.958140518201173,
+      "lng": 77.56574184148859
+    },
+    "metrics": {
+      "score": 96,
+      "confidence": 0.52,
+      "impact": 4
+    },
+    "tags": [
+      "network-error"
+    ]
+  },
+  {
+    "id": "7edf73c2-5a51-4110-b817-867b11530d3a",
+    "title": "Health Alert in Kolkata",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2026-01-20T10:17:00.000Z",
+    "location": {
+      "lat": 22.576331202636833,
+      "lng": 88.31934521065362
+    },
+    "metrics": {
+      "score": 61,
+      "confidence": 0.24,
+      "impact": 7
+    },
+    "tags": [
+      "suspicious",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "f5e923cc-96d6-4231-b02b-737b572f589c",
+    "title": "Ops Alert in Mumbai",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2025-12-04T03:38:00.000Z",
+    "location": {
+      "lat": 19.05680475326561,
+      "lng": 72.90158230908072
+    },
+    "metrics": {
+      "score": 41,
+      "confidence": 0.29,
+      "impact": 9
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "facc603e-fc5d-4716-be4a-df8176246328",
+    "title": "Fraud Alert in Mumbai",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2026-01-13T04:02:00.000Z",
+    "location": {
+      "lat": 19.091640648672037,
+      "lng": 72.92298245083354
+    },
+    "metrics": {
+      "score": 2,
+      "confidence": 0.83,
+      "impact": 2
+    },
+    "tags": [
+      "suspicious"
+    ]
+  },
+  {
+    "id": "c87ee995-3f76-4c55-897f-df8f177d27a8",
+    "title": "Health Alert in Ahmedabad",
+    "description": "Detected potential Health issue with severity High.",
+    "category": "Health",
+    "severity": "High",
+    "createdAt": "2025-12-11T20:48:00.000Z",
+    "location": {
+      "lat": 22.98538056296337,
+      "lng": 72.56642597588728
+    },
+    "metrics": {
+      "score": 15,
+      "confidence": 0.82,
+      "impact": 2
+    },
+    "tags": [
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "bc0a7f89-a2e9-47f9-a9d0-da6de58ed814",
+    "title": "Fraud Alert in Mumbai",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2025-11-30T18:25:00.000Z",
+    "location": {
+      "lat": 19.07008445294445,
+      "lng": 72.90134407530296
+    },
+    "metrics": {
+      "score": 57,
+      "confidence": 0.84,
+      "impact": 3
+    },
+    "tags": [
+      "high-rate",
+      "network-error"
+    ]
+  },
+  {
+    "id": "775ff0a5-718f-44fa-8f61-ee4f350eab1e",
+    "title": "Fraud Alert in Bangalore",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2025-12-10T13:39:00.000Z",
+    "location": {
+      "lat": 12.94039366416132,
+      "lng": 77.61228070279454
+    },
+    "metrics": {
+      "score": 39,
+      "confidence": 0.19,
+      "impact": 1
+    },
+    "tags": [
+      "large-transaction",
+      "anomaly",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "a33249ac-cdc6-4677-b497-8353c92504cf",
+    "title": "Sales Alert in Ahmedabad",
+    "description": "Detected potential Sales issue with severity Medium.",
+    "category": "Sales",
+    "severity": "Medium",
+    "createdAt": "2026-01-22T17:12:00.000Z",
+    "location": {
+      "lat": 23.037921270194712,
+      "lng": 72.6176131932047
+    },
+    "metrics": {
+      "score": 95,
+      "confidence": 0.47,
+      "impact": 6
+    },
+    "tags": [
+      "high-rate"
+    ]
+  },
+  {
+    "id": "4efcae6b-8d05-4141-a480-5b7b7726d2bc",
+    "title": "Sales Alert in Kolkata",
+    "description": "Detected potential Sales issue with severity High.",
+    "category": "Sales",
+    "severity": "High",
+    "createdAt": "2025-11-12T06:36:00.000Z",
+    "location": {
+      "lat": 22.573519619096146,
+      "lng": 88.39493694570982
+    },
+    "metrics": {
+      "score": 3,
+      "confidence": 0.38,
+      "impact": 3
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "276a7954-908a-4f6f-b44d-29e1edd7fdda",
+    "title": "Health Alert in Delhi",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2026-01-01T07:51:00.000Z",
+    "location": {
+      "lat": 28.673718695865116,
+      "lng": 77.07196022781507
+    },
+    "metrics": {
+      "score": 37,
+      "confidence": 0.84,
+      "impact": 5
+    },
+    "tags": [
+      "credit-card",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "e89c0d63-e392-47fc-a138-3ca38f27f89e",
+    "title": "Safety Alert in Chennai",
+    "description": "Detected potential Safety issue with severity Medium.",
+    "category": "Safety",
+    "severity": "Medium",
+    "createdAt": "2025-12-12T12:57:00.000Z",
+    "location": {
+      "lat": 13.120115887616315,
+      "lng": 80.29451099559411
+    },
+    "metrics": {
+      "score": 71,
+      "confidence": 0.1,
+      "impact": 8
+    },
+    "tags": [
+      "high-rate",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "40aa107a-527c-441b-915c-cb6da1e88e4a",
+    "title": "Ops Alert in Delhi",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2026-01-05T19:09:00.000Z",
+    "location": {
+      "lat": 28.697993320987422,
+      "lng": 77.07683298118295
+    },
+    "metrics": {
+      "score": 62,
+      "confidence": 0.92,
+      "impact": 1
+    },
+    "tags": [
+      "policy-violation",
+      "suspicious",
+      "network-error"
+    ]
+  },
+  {
+    "id": "47991091-8527-43c5-b795-833f7e687fd7",
+    "title": "Fraud Alert in Hyderabad",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2026-02-06T04:03:00.000Z",
+    "location": {
+      "lat": 17.41044593239513,
+      "lng": 78.43767225126473
+    },
+    "metrics": {
+      "score": 82,
+      "confidence": 0.24,
+      "impact": 9
+    },
+    "tags": [
+      "login-fail",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "2420a50a-b30c-44b8-8315-d1a21138c8d3",
+    "title": "Ops Alert in Kolkata",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2025-11-20T02:31:00.000Z",
+    "location": {
+      "lat": 22.530016277261293,
+      "lng": 88.36991338693062
+    },
+    "metrics": {
+      "score": 42,
+      "confidence": 0.78,
+      "impact": 9
+    },
+    "tags": [
+      "high-rate",
+      "credit-card",
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "c5400561-de72-4cba-b6a4-8c8242c6806d",
+    "title": "Sales Alert in Kolkata",
+    "description": "Detected potential Sales issue with severity High.",
+    "category": "Sales",
+    "severity": "High",
+    "createdAt": "2026-01-11T08:02:00.000Z",
+    "location": {
+      "lat": 22.556744646080407,
+      "lng": 88.35131056849939
+    },
+    "metrics": {
+      "score": 9,
+      "confidence": 0.18,
+      "impact": 7
+    },
+    "tags": [
+      "credit-card",
+      "login-fail",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "0fd1457a-57a8-4129-bb4a-e73a334c6ec6",
+    "title": "Health Alert in Delhi",
+    "description": "Detected potential Health issue with severity High.",
+    "category": "Health",
+    "severity": "High",
+    "createdAt": "2025-11-30T07:35:00.000Z",
+    "location": {
+      "lat": 28.676979445705395,
+      "lng": 77.12888870319668
+    },
+    "metrics": {
+      "score": 51,
+      "confidence": 0.32,
+      "impact": 8
+    },
+    "tags": [
+      "suspicious",
+      "large-transaction",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "687beba1-38db-4549-9c85-7c064fb269aa",
+    "title": "Fraud Alert in Mumbai",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2025-11-22T18:03:00.000Z",
+    "location": {
+      "lat": 19.03139051807474,
+      "lng": 72.84494618839541
+    },
+    "metrics": {
+      "score": 69,
+      "confidence": 0.71,
+      "impact": 6
+    },
+    "tags": [
+      "high-rate"
+    ]
+  },
+  {
+    "id": "14a3b6fd-ec27-411a-ab50-ab07c8aca61f",
+    "title": "Sales Alert in Kolkata",
+    "description": "Detected potential Sales issue with severity High.",
+    "category": "Sales",
+    "severity": "High",
+    "createdAt": "2025-11-21T22:15:00.000Z",
+    "location": {
+      "lat": 22.59417187847844,
+      "lng": 88.32701076230653
+    },
+    "metrics": {
+      "score": 72,
+      "confidence": 0.79,
+      "impact": 5
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "accbe90c-abef-483c-baa4-52c1f7d86c22",
+    "title": "Ops Alert in Hyderabad",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2026-02-02T09:43:00.000Z",
+    "location": {
+      "lat": 17.398130976080562,
+      "lng": 78.5318896049799
+    },
+    "metrics": {
+      "score": 84,
+      "confidence": 0.35,
+      "impact": 1
+    },
+    "tags": [
+      "anomaly"
+    ]
+  },
+  {
+    "id": "1265c590-b196-4ce2-a4a6-9b09c54b79f3",
+    "title": "Safety Alert in Kolkata",
+    "description": "Detected potential Safety issue with severity Low.",
+    "category": "Safety",
+    "severity": "Low",
+    "createdAt": "2026-01-19T03:32:00.000Z",
+    "location": {
+      "lat": 22.593459834180358,
+      "lng": 88.41016465659904
+    },
+    "metrics": {
+      "score": 56,
+      "confidence": 0.51,
+      "impact": 7
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "0e589052-9123-4717-9701-561db414f71f",
+    "title": "Health Alert in Kolkata",
+    "description": "Detected potential Health issue with severity Low.",
+    "category": "Health",
+    "severity": "Low",
+    "createdAt": "2025-12-12T02:31:00.000Z",
+    "location": {
+      "lat": 22.553863283625958,
+      "lng": 88.34113895284386
+    },
+    "metrics": {
+      "score": 87,
+      "confidence": 0.96,
+      "impact": 3
+    },
+    "tags": [
+      "high-rate",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "eac9c94a-6cee-4403-9050-31784878b4ea",
+    "title": "Ops Alert in Hyderabad",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2025-11-18T03:43:00.000Z",
+    "location": {
+      "lat": 17.354759212673663,
+      "lng": 78.43964520550722
+    },
+    "metrics": {
+      "score": 79,
+      "confidence": 0.89,
+      "impact": 5
+    },
+    "tags": [
+      "network-error",
+      "large-transaction",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "422b5b09-748d-4d10-9bb4-e96713b2cf6a",
+    "title": "Safety Alert in Ahmedabad",
+    "description": "Detected potential Safety issue with severity High.",
+    "category": "Safety",
+    "severity": "High",
+    "createdAt": "2026-01-09T06:53:00.000Z",
+    "location": {
+      "lat": 22.996435756933817,
+      "lng": 72.60440820817868
+    },
+    "metrics": {
+      "score": 40,
+      "confidence": 0.64,
+      "impact": 9
+    },
+    "tags": [
+      "large-transaction",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "600e1411-233b-4f59-90a8-f06b9a812b5a",
+    "title": "Sales Alert in Mumbai",
+    "description": "Detected potential Sales issue with severity High.",
+    "category": "Sales",
+    "severity": "High",
+    "createdAt": "2025-11-23T15:57:00.000Z",
+    "location": {
+      "lat": 19.026845062826382,
+      "lng": 72.85562555419696
+    },
+    "metrics": {
+      "score": 18,
+      "confidence": 0.72,
+      "impact": 10
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "5415ffe4-e875-4305-8d8d-4ccc769a8b58",
+    "title": "Health Alert in Chennai",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2026-01-04T14:25:00.000Z",
+    "location": {
+      "lat": 13.049230344338685,
+      "lng": 80.28143397199707
+    },
+    "metrics": {
+      "score": 28,
+      "confidence": 0.26,
+      "impact": 4
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "96a3d52b-6ffb-4f16-a687-cba8bfc5b184",
+    "title": "Ops Alert in Bangalore",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2025-11-14T11:38:00.000Z",
+    "location": {
+      "lat": 12.944848442030978,
+      "lng": 77.59041374053398
+    },
+    "metrics": {
+      "score": 5,
+      "confidence": 0.53,
+      "impact": 3
+    },
+    "tags": [
+      "high-rate"
+    ]
+  },
+  {
+    "id": "73f4ddcc-d91f-42bf-813d-4f5d39125b20",
+    "title": "Sales Alert in Mumbai",
+    "description": "Detected potential Sales issue with severity Low.",
+    "category": "Sales",
+    "severity": "Low",
+    "createdAt": "2025-12-25T05:01:00.000Z",
+    "location": {
+      "lat": 19.07805444649464,
+      "lng": 72.88548048105176
+    },
+    "metrics": {
+      "score": 42,
+      "confidence": 0.67,
+      "impact": 3
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "290268dd-18bf-4e8e-9fc1-bf0f61f4bcd7",
+    "title": "Health Alert in Kolkata",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2025-11-24T02:43:00.000Z",
+    "location": {
+      "lat": 22.58334296403244,
+      "lng": 88.34631237577194
+    },
+    "metrics": {
+      "score": 28,
+      "confidence": 0.56,
+      "impact": 10
+    },
+    "tags": [
+      "login-fail",
+      "network-error"
+    ]
+  },
+  {
+    "id": "71619b62-29bb-4532-8c8a-0cc4a617f043",
+    "title": "Ops Alert in Ahmedabad",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2025-11-12T04:33:00.000Z",
+    "location": {
+      "lat": 23.004844623861633,
+      "lng": 72.56071806023026
+    },
+    "metrics": {
+      "score": 86,
+      "confidence": 0.7,
+      "impact": 3
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "e12f5ff2-f431-46db-b55a-550f22a2a123",
+    "title": "Fraud Alert in Mumbai",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2026-01-26T07:05:00.000Z",
+    "location": {
+      "lat": 19.042753699257382,
+      "lng": 72.8622703298271
+    },
+    "metrics": {
+      "score": 56,
+      "confidence": 0.36,
+      "impact": 0
+    },
+    "tags": [
+      "login-fail",
+      "policy-violation",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "b3305aa8-978c-4acf-9008-a888d0fb1dbf",
+    "title": "Ops Alert in Kolkata",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2025-12-18T12:19:00.000Z",
+    "location": {
+      "lat": 22.589034287628653,
+      "lng": 88.3324327224226
+    },
+    "metrics": {
+      "score": 68,
+      "confidence": 0.31,
+      "impact": 4
+    },
+    "tags": [
+      "network-error",
+      "login-fail"
+    ]
+  },
+  {
+    "id": "4d29fe89-5aa7-469c-854d-f838b9b9892d",
+    "title": "Health Alert in Bangalore",
+    "description": "Detected potential Health issue with severity Low.",
+    "category": "Health",
+    "severity": "Low",
+    "createdAt": "2026-01-11T21:30:00.000Z",
+    "location": {
+      "lat": 13.010685417577815,
+      "lng": 77.55213940030694
+    },
+    "metrics": {
+      "score": 78,
+      "confidence": 0.84,
+      "impact": 10
+    },
+    "tags": [
+      "suspicious"
+    ]
+  },
+  {
+    "id": "f9f77376-8a09-488d-9215-bc3b848cf9ea",
+    "title": "Ops Alert in Chennai",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2025-11-29T23:08:00.000Z",
+    "location": {
+      "lat": 13.12490979722023,
+      "lng": 80.28624014971405
+    },
+    "metrics": {
+      "score": 57,
+      "confidence": 0.19,
+      "impact": 10
+    },
+    "tags": [
+      "login-fail",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "1b8ff043-3018-4082-a1b4-88acd02128dd",
+    "title": "Ops Alert in Hyderabad",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2025-11-11T08:08:00.000Z",
+    "location": {
+      "lat": 17.406390288403898,
+      "lng": 78.49896776514419
+    },
+    "metrics": {
+      "score": 31,
+      "confidence": 0.94,
+      "impact": 1
+    },
+    "tags": [
+      "network-error",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "2555e525-2171-408d-9d08-f59e770d49bb",
+    "title": "Ops Alert in Kolkata",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2025-12-21T02:34:00.000Z",
+    "location": {
+      "lat": 22.602316532606295,
+      "lng": 88.39518107742359
+    },
+    "metrics": {
+      "score": 76,
+      "confidence": 0.24,
+      "impact": 5
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "1ff2045c-fd72-4856-adcf-6bfea965f175",
+    "title": "Safety Alert in Delhi",
+    "description": "Detected potential Safety issue with severity Medium.",
+    "category": "Safety",
+    "severity": "Medium",
+    "createdAt": "2025-12-11T23:36:00.000Z",
+    "location": {
+      "lat": 28.699142695308417,
+      "lng": 77.11810548491755
+    },
+    "metrics": {
+      "score": 65,
+      "confidence": 0.35,
+      "impact": 10
+    },
+    "tags": [
+      "login-fail"
+    ]
+  },
+  {
+    "id": "3013aa77-71f1-4725-a2f7-51faa7d2b2f7",
+    "title": "Safety Alert in Delhi",
+    "description": "Detected potential Safety issue with severity High.",
+    "category": "Safety",
+    "severity": "High",
+    "createdAt": "2025-11-14T16:46:00.000Z",
+    "location": {
+      "lat": 28.72379480055724,
+      "lng": 77.1386970584405
+    },
+    "metrics": {
+      "score": 89,
+      "confidence": 0.49,
+      "impact": 2
+    },
+    "tags": [
+      "login-fail",
+      "suspicious",
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "a6c0ac82-1a04-47a0-9310-24b4550ea60d",
+    "title": "Sales Alert in Bangalore",
+    "description": "Detected potential Sales issue with severity Low.",
+    "category": "Sales",
+    "severity": "Low",
+    "createdAt": "2026-01-05T17:58:00.000Z",
+    "location": {
+      "lat": 12.96400625892718,
+      "lng": 77.62040739233139
+    },
+    "metrics": {
+      "score": 84,
+      "confidence": 0.48,
+      "impact": 0
+    },
+    "tags": [
+      "anomaly",
+      "suspicious",
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "a63d9196-651f-4b16-9c0f-f87a7aadf81a",
+    "title": "Fraud Alert in Hyderabad",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2026-01-11T08:15:00.000Z",
+    "location": {
+      "lat": 17.370519065311885,
+      "lng": 78.48740124094589
+    },
+    "metrics": {
+      "score": 74,
+      "confidence": 0.79,
+      "impact": 0
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "d31e0087-a6c5-406f-811a-fbe6d050d633",
+    "title": "Ops Alert in Pune",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2025-11-22T20:59:00.000Z",
+    "location": {
+      "lat": 18.47337971530785,
+      "lng": 73.85133157408787
+    },
+    "metrics": {
+      "score": 75,
+      "confidence": 0.25,
+      "impact": 9
+    },
+    "tags": [
+      "login-fail",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "f209146c-3639-475f-beea-2d8ec9a882ad",
+    "title": "Safety Alert in Mumbai",
+    "description": "Detected potential Safety issue with severity Medium.",
+    "category": "Safety",
+    "severity": "Medium",
+    "createdAt": "2026-01-02T00:54:00.000Z",
+    "location": {
+      "lat": 19.029768927612256,
+      "lng": 72.9193528332828
+    },
+    "metrics": {
+      "score": 24,
+      "confidence": 0.73,
+      "impact": 3
+    },
+    "tags": [
+      "suspicious"
+    ]
+  },
+  {
+    "id": "2f0e055d-2ee2-4d83-800c-2f62ca6f0908",
+    "title": "Safety Alert in Kolkata",
+    "description": "Detected potential Safety issue with severity High.",
+    "category": "Safety",
+    "severity": "High",
+    "createdAt": "2026-01-30T20:21:00.000Z",
+    "location": {
+      "lat": 22.563802599982353,
+      "lng": 88.34717265736249
+    },
+    "metrics": {
+      "score": 47,
+      "confidence": 0.24,
+      "impact": 1
+    },
+    "tags": [
+      "policy-violation",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "a3452bba-db6c-409f-b3b3-f36da20fd9cc",
+    "title": "Sales Alert in Ahmedabad",
+    "description": "Detected potential Sales issue with severity Medium.",
+    "category": "Sales",
+    "severity": "Medium",
+    "createdAt": "2025-12-26T15:04:00.000Z",
+    "location": {
+      "lat": 23.03049184840621,
+      "lng": 72.59871779276234
+    },
+    "metrics": {
+      "score": 44,
+      "confidence": 0.47,
+      "impact": 1
+    },
+    "tags": [
+      "credit-card",
+      "login-fail",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "b932d184-e69f-43ed-815e-a6cf50f49e1e",
+    "title": "Safety Alert in Ahmedabad",
+    "description": "Detected potential Safety issue with severity Low.",
+    "category": "Safety",
+    "severity": "Low",
+    "createdAt": "2026-01-27T14:57:00.000Z",
+    "location": {
+      "lat": 23.004751608922824,
+      "lng": 72.59227491345368
+    },
+    "metrics": {
+      "score": 5,
+      "confidence": 0.47,
+      "impact": 4
+    },
+    "tags": [
+      "anomaly"
+    ]
+  },
+  {
+    "id": "7c8ba5fa-7185-4ffb-b71f-4bb4de31c120",
+    "title": "Health Alert in Chennai",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2025-12-02T06:57:00.000Z",
+    "location": {
+      "lat": 13.083162753108612,
+      "lng": 80.2446318233061
+    },
+    "metrics": {
+      "score": 20,
+      "confidence": 0.33,
+      "impact": 10
+    },
+    "tags": [
+      "credit-card",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "67f9687f-7c58-483f-a750-035e94abe1a9",
+    "title": "Ops Alert in Hyderabad",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2026-01-08T17:10:00.000Z",
+    "location": {
+      "lat": 17.38957722769644,
+      "lng": 78.527813220762
+    },
+    "metrics": {
+      "score": 7,
+      "confidence": 0.26,
+      "impact": 5
+    },
+    "tags": [
+      "network-error",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "8f9ba471-9443-4866-bf12-d51719f98780",
+    "title": "Ops Alert in Kolkata",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2025-11-24T08:19:00.000Z",
+    "location": {
+      "lat": 22.545601895964726,
+      "lng": 88.36117480046629
+    },
+    "metrics": {
+      "score": 81,
+      "confidence": 0.28,
+      "impact": 3
+    },
+    "tags": [
+      "anomaly",
+      "login-fail",
+      "network-error"
+    ]
+  },
+  {
+    "id": "6757f04b-1e21-424b-8b0e-d6034e77c173",
+    "title": "Sales Alert in Delhi",
+    "description": "Detected potential Sales issue with severity Low.",
+    "category": "Sales",
+    "severity": "Low",
+    "createdAt": "2025-12-21T00:29:00.000Z",
+    "location": {
+      "lat": 28.747726536505006,
+      "lng": 77.15241945256236
+    },
+    "metrics": {
+      "score": 13,
+      "confidence": 0.18,
+      "impact": 7
+    },
+    "tags": [
+      "large-transaction",
+      "network-error"
+    ]
+  },
+  {
+    "id": "18ab5691-0f52-40f6-8a1f-75ca6d5ade6e",
+    "title": "Fraud Alert in Ahmedabad",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2025-12-21T06:15:00.000Z",
+    "location": {
+      "lat": 22.995657162591414,
+      "lng": 72.55972529283522
+    },
+    "metrics": {
+      "score": 59,
+      "confidence": 0.9,
+      "impact": 6
+    },
+    "tags": [
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "5bd41aee-35c3-4a2f-bbea-927a4ea01796",
+    "title": "Safety Alert in Delhi",
+    "description": "Detected potential Safety issue with severity Medium.",
+    "category": "Safety",
+    "severity": "Medium",
+    "createdAt": "2025-11-21T19:49:00.000Z",
+    "location": {
+      "lat": 28.697173405349012,
+      "lng": 77.1304151864809
+    },
+    "metrics": {
+      "score": 74,
+      "confidence": 0.84,
+      "impact": 2
+    },
+    "tags": [
+      "high-rate"
+    ]
+  },
+  {
+    "id": "3a86124a-e6df-4ce4-8692-234fe4dfdd65",
+    "title": "Health Alert in Hyderabad",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2025-12-30T10:04:00.000Z",
+    "location": {
+      "lat": 17.374030152029373,
+      "lng": 78.53610234485164
+    },
+    "metrics": {
+      "score": 11,
+      "confidence": 0.22,
+      "impact": 9
+    },
+    "tags": [
+      "network-error",
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "4c554b58-f884-4e39-884c-58ea0dc7e789",
+    "title": "Ops Alert in Ahmedabad",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2025-12-11T01:41:00.000Z",
+    "location": {
+      "lat": 22.97443633184418,
+      "lng": 72.60607502679603
+    },
+    "metrics": {
+      "score": 33,
+      "confidence": 0.95,
+      "impact": 0
+    },
+    "tags": [
+      "policy-violation",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "3164a2e6-4a37-4fd4-983e-19bdffdb1e11",
+    "title": "Safety Alert in Pune",
+    "description": "Detected potential Safety issue with severity High.",
+    "category": "Safety",
+    "severity": "High",
+    "createdAt": "2025-12-15T10:07:00.000Z",
+    "location": {
+      "lat": 18.532328050664436,
+      "lng": 73.81542594368422
+    },
+    "metrics": {
+      "score": 60,
+      "confidence": 0.37,
+      "impact": 3
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "1443c5aa-4a07-471e-a039-3cc55ee0e262",
+    "title": "Safety Alert in Mumbai",
+    "description": "Detected potential Safety issue with severity Medium.",
+    "category": "Safety",
+    "severity": "Medium",
+    "createdAt": "2025-12-06T17:18:00.000Z",
+    "location": {
+      "lat": 19.03907433083089,
+      "lng": 72.91004837015954
+    },
+    "metrics": {
+      "score": 59,
+      "confidence": 0.91,
+      "impact": 5
+    },
+    "tags": [
+      "network-error",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "af1ca9bd-6fc6-4730-a263-0e3823d108a2",
+    "title": "Ops Alert in Bangalore",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2025-12-08T02:40:00.000Z",
+    "location": {
+      "lat": 12.93086757598378,
+      "lng": 77.55763777015216
+    },
+    "metrics": {
+      "score": 51,
+      "confidence": 0.18,
+      "impact": 2
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "7bc5ac5d-382c-4daf-b5b9-3f5a6c44f113",
+    "title": "Ops Alert in Delhi",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2025-11-10T06:49:00.000Z",
+    "location": {
+      "lat": 28.752402288799995,
+      "lng": 77.0720479622017
+    },
+    "metrics": {
+      "score": 96,
+      "confidence": 0.25,
+      "impact": 8
+    },
+    "tags": [
+      "anomaly"
+    ]
+  },
+  {
+    "id": "73f54492-4259-45a1-85bc-a8f3b106d5b8",
+    "title": "Ops Alert in Hyderabad",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2025-11-10T09:28:00.000Z",
+    "location": {
+      "lat": 17.368177048816886,
+      "lng": 78.48936497571141
+    },
+    "metrics": {
+      "score": 99,
+      "confidence": 0.37,
+      "impact": 0
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "e83c8d57-2307-4030-8e76-44d41b23fcce",
+    "title": "Sales Alert in Hyderabad",
+    "description": "Detected potential Sales issue with severity High.",
+    "category": "Sales",
+    "severity": "High",
+    "createdAt": "2026-01-16T13:43:00.000Z",
+    "location": {
+      "lat": 17.42306818142993,
+      "lng": 78.47018099232857
+    },
+    "metrics": {
+      "score": 34,
+      "confidence": 0.14,
+      "impact": 9
+    },
+    "tags": [
+      "network-error",
+      "policy-violation",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "4cd0cb7b-0579-4b50-9f72-0260f21d3744",
+    "title": "Ops Alert in Hyderabad",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2026-01-11T13:41:00.000Z",
+    "location": {
+      "lat": 17.382802725122012,
+      "lng": 78.51472874069229
+    },
+    "metrics": {
+      "score": 96,
+      "confidence": 0.14,
+      "impact": 7
+    },
+    "tags": [
+      "suspicious",
+      "login-fail",
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "986aa4ef-a592-4431-9630-b44623ad9d7e",
+    "title": "Health Alert in Kolkata",
+    "description": "Detected potential Health issue with severity High.",
+    "category": "Health",
+    "severity": "High",
+    "createdAt": "2025-11-14T03:14:00.000Z",
+    "location": {
+      "lat": 22.615751475427174,
+      "lng": 88.36769955182757
+    },
+    "metrics": {
+      "score": 74,
+      "confidence": 0.71,
+      "impact": 4
+    },
+    "tags": [
+      "anomaly",
+      "login-fail"
+    ]
+  },
+  {
+    "id": "ed4f58ea-28d4-469a-88b3-9b34e4cf4f63",
+    "title": "Safety Alert in Chennai",
+    "description": "Detected potential Safety issue with severity Low.",
+    "category": "Safety",
+    "severity": "Low",
+    "createdAt": "2026-01-21T15:25:00.000Z",
+    "location": {
+      "lat": 13.081212909952571,
+      "lng": 80.28854791517634
+    },
+    "metrics": {
+      "score": 46,
+      "confidence": 0.58,
+      "impact": 2
+    },
+    "tags": [
+      "anomaly",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "36570e80-af36-4e1e-ad5a-9c3d1650e838",
+    "title": "Safety Alert in Hyderabad",
+    "description": "Detected potential Safety issue with severity Medium.",
+    "category": "Safety",
+    "severity": "Medium",
+    "createdAt": "2026-01-04T04:23:00.000Z",
+    "location": {
+      "lat": 17.348965203299922,
+      "lng": 78.5091038968499
+    },
+    "metrics": {
+      "score": 36,
+      "confidence": 0.89,
+      "impact": 5
+    },
+    "tags": [
+      "high-rate"
+    ]
+  },
+  {
+    "id": "93a7d85b-d847-4efa-b9af-69e7ab7f9589",
+    "title": "Ops Alert in Ahmedabad",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2026-01-27T09:33:00.000Z",
+    "location": {
+      "lat": 22.974803064139213,
+      "lng": 72.58787419236987
+    },
+    "metrics": {
+      "score": 64,
+      "confidence": 0.91,
+      "impact": 3
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "ce56b8a4-4d8a-4667-bf3d-1cda9544086a",
+    "title": "Sales Alert in Delhi",
+    "description": "Detected potential Sales issue with severity Low.",
+    "category": "Sales",
+    "severity": "Low",
+    "createdAt": "2026-02-06T05:17:00.000Z",
+    "location": {
+      "lat": 28.662233875087242,
+      "lng": 77.07654171306001
+    },
+    "metrics": {
+      "score": 70,
+      "confidence": 0.87,
+      "impact": 7
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "1a221f70-3909-4720-b681-85e1de51ade2",
+    "title": "Ops Alert in Chennai",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2025-12-09T16:31:00.000Z",
+    "location": {
+      "lat": 13.051041796363135,
+      "lng": 80.22083405420695
+    },
+    "metrics": {
+      "score": 57,
+      "confidence": 1,
+      "impact": 1
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "ad1a9c4d-807b-4d91-a3c5-2ff3e4ca09e0",
+    "title": "Sales Alert in Chennai",
+    "description": "Detected potential Sales issue with severity High.",
+    "category": "Sales",
+    "severity": "High",
+    "createdAt": "2026-02-01T21:35:00.000Z",
+    "location": {
+      "lat": 13.050645305220113,
+      "lng": 80.31177521385906
+    },
+    "metrics": {
+      "score": 1,
+      "confidence": 0.75,
+      "impact": 9
+    },
+    "tags": [
+      "anomaly",
+      "login-fail"
+    ]
+  },
+  {
+    "id": "94b6a793-a8a5-4282-8bf1-fc271369fd28",
+    "title": "Health Alert in Delhi",
+    "description": "Detected potential Health issue with severity High.",
+    "category": "Health",
+    "severity": "High",
+    "createdAt": "2026-01-04T03:08:00.000Z",
+    "location": {
+      "lat": 28.74376641263363,
+      "lng": 77.10550883390108
+    },
+    "metrics": {
+      "score": 25,
+      "confidence": 0.42,
+      "impact": 4
+    },
+    "tags": [
+      "network-error"
+    ]
+  },
+  {
+    "id": "c90cf6b5-1528-4026-8e8c-6399eaa75545",
+    "title": "Fraud Alert in Mumbai",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2025-12-09T02:42:00.000Z",
+    "location": {
+      "lat": 19.103707248898274,
+      "lng": 72.872564221014
+    },
+    "metrics": {
+      "score": 12,
+      "confidence": 0.41,
+      "impact": 9
+    },
+    "tags": [
+      "anomaly",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "b60f3699-98c7-473a-8a4c-aea11da13b52",
+    "title": "Ops Alert in Kolkata",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2026-01-13T01:51:00.000Z",
+    "location": {
+      "lat": 22.592533621885064,
+      "lng": 88.41168140361707
+    },
+    "metrics": {
+      "score": 46,
+      "confidence": 0.5,
+      "impact": 2
+    },
+    "tags": [
+      "credit-card",
+      "login-fail"
+    ]
+  },
+  {
+    "id": "55149262-704c-40ed-ab77-5fbb7bb33775",
+    "title": "Fraud Alert in Delhi",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2025-11-20T05:04:00.000Z",
+    "location": {
+      "lat": 28.654550467285404,
+      "lng": 77.1336782112001
+    },
+    "metrics": {
+      "score": 96,
+      "confidence": 0.24,
+      "impact": 7
+    },
+    "tags": [
+      "large-transaction",
+      "network-error",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "c448e998-7849-4ab2-82c0-7b428eb793a7",
+    "title": "Safety Alert in Ahmedabad",
+    "description": "Detected potential Safety issue with severity High.",
+    "category": "Safety",
+    "severity": "High",
+    "createdAt": "2026-01-21T02:24:00.000Z",
+    "location": {
+      "lat": 22.982365875530572,
+      "lng": 72.5839046308491
+    },
+    "metrics": {
+      "score": 52,
+      "confidence": 0.99,
+      "impact": 2
+    },
+    "tags": [
+      "policy-violation",
+      "suspicious",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "a0932534-0583-456c-a15d-4f5c08c4bad3",
+    "title": "Health Alert in Pune",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2026-01-08T15:13:00.000Z",
+    "location": {
+      "lat": 18.560405290384484,
+      "lng": 73.86887981350206
+    },
+    "metrics": {
+      "score": 55,
+      "confidence": 0.16,
+      "impact": 9
+    },
+    "tags": [
+      "high-rate",
+      "network-error"
+    ]
+  },
+  {
+    "id": "ee323090-518d-481d-befc-8c40d639fb2d",
+    "title": "Sales Alert in Bangalore",
+    "description": "Detected potential Sales issue with severity Medium.",
+    "category": "Sales",
+    "severity": "Medium",
+    "createdAt": "2025-12-28T00:37:00.000Z",
+    "location": {
+      "lat": 12.960661670689246,
+      "lng": 77.56017707893294
+    },
+    "metrics": {
+      "score": 87,
+      "confidence": 0.93,
+      "impact": 7
+    },
+    "tags": [
+      "login-fail",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "9f5277e3-fb02-4089-8504-7159a248f7a2",
+    "title": "Ops Alert in Bangalore",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2025-12-10T23:30:00.000Z",
+    "location": {
+      "lat": 12.925720413022853,
+      "lng": 77.58881900798326
+    },
+    "metrics": {
+      "score": 80,
+      "confidence": 0.15,
+      "impact": 1
+    },
+    "tags": [
+      "suspicious",
+      "network-error"
+    ]
+  },
+  {
+    "id": "20d2deca-b440-4af8-978b-f45659d8cdb4",
+    "title": "Fraud Alert in Delhi",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2025-11-22T10:06:00.000Z",
+    "location": {
+      "lat": 28.717826773056878,
+      "lng": 77.13956505711423
+    },
+    "metrics": {
+      "score": 4,
+      "confidence": 0.26,
+      "impact": 0
+    },
+    "tags": [
+      "policy-violation",
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "49bb33ab-61c8-45ba-898c-e51aa0554438",
+    "title": "Health Alert in Bangalore",
+    "description": "Detected potential Health issue with severity High.",
+    "category": "Health",
+    "severity": "High",
+    "createdAt": "2026-01-15T01:11:00.000Z",
+    "location": {
+      "lat": 12.988024951948626,
+      "lng": 77.57808780477828
+    },
+    "metrics": {
+      "score": 2,
+      "confidence": 0.64,
+      "impact": 5
+    },
+    "tags": [
+      "large-transaction"
+    ]
+  },
+  {
+    "id": "925a8fae-2cd2-41ef-b817-1e36cf433d9d",
+    "title": "Fraud Alert in Delhi",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2025-12-10T05:45:00.000Z",
+    "location": {
+      "lat": 28.711073871789896,
+      "lng": 77.13828349914662
+    },
+    "metrics": {
+      "score": 57,
+      "confidence": 0.18,
+      "impact": 1
+    },
+    "tags": [
+      "suspicious"
+    ]
+  },
+  {
+    "id": "95b408a2-8cf0-47d7-94fe-c6f4f9330b50",
+    "title": "Safety Alert in Delhi",
+    "description": "Detected potential Safety issue with severity High.",
+    "category": "Safety",
+    "severity": "High",
+    "createdAt": "2025-12-10T02:02:00.000Z",
+    "location": {
+      "lat": 28.6973179251416,
+      "lng": 77.13017747163802
+    },
+    "metrics": {
+      "score": 51,
+      "confidence": 0.23,
+      "impact": 1
+    },
+    "tags": [
+      "suspicious",
+      "anomaly"
+    ]
+  },
+  {
+    "id": "50b654a9-ba1a-426b-bdd7-c838590179bf",
+    "title": "Ops Alert in Pune",
+    "description": "Detected potential Ops issue with severity Low.",
+    "category": "Ops",
+    "severity": "Low",
+    "createdAt": "2025-12-27T22:32:00.000Z",
+    "location": {
+      "lat": 18.495004359640383,
+      "lng": 73.8623789164562
+    },
+    "metrics": {
+      "score": 28,
+      "confidence": 0.23,
+      "impact": 4
+    },
+    "tags": [
+      "policy-violation",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "68b0288e-5e5c-42d4-b83c-ffb981648a8c",
+    "title": "Safety Alert in Kolkata",
+    "description": "Detected potential Safety issue with severity High.",
+    "category": "Safety",
+    "severity": "High",
+    "createdAt": "2026-01-29T01:38:00.000Z",
+    "location": {
+      "lat": 22.604456299823628,
+      "lng": 88.33277917534275
+    },
+    "metrics": {
+      "score": 45,
+      "confidence": 0.3,
+      "impact": 5
+    },
+    "tags": [
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "017f6bbf-fd6e-4d52-8e99-292b44cfcded",
+    "title": "Fraud Alert in Kolkata",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2026-02-04T08:22:00.000Z",
+    "location": {
+      "lat": 22.58944081180065,
+      "lng": 88.3213284586379
+    },
+    "metrics": {
+      "score": 98,
+      "confidence": 0.24,
+      "impact": 5
+    },
+    "tags": [
+      "high-rate",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "691f4776-61a8-4d20-b90b-56061b56162b",
+    "title": "Fraud Alert in Mumbai",
+    "description": "Detected potential Fraud issue with severity Low.",
+    "category": "Fraud",
+    "severity": "Low",
+    "createdAt": "2026-01-30T13:04:00.000Z",
+    "location": {
+      "lat": 19.079231777581143,
+      "lng": 72.89758405169022
+    },
+    "metrics": {
+      "score": 67,
+      "confidence": 0.85,
+      "impact": 3
+    },
+    "tags": [
+      "anomaly",
+      "credit-card",
+      "policy-violation"
+    ]
+  },
+  {
+    "id": "bef5d812-3110-4218-aec7-fe8c89d9078e",
+    "title": "Fraud Alert in Bangalore",
+    "description": "Detected potential Fraud issue with severity High.",
+    "category": "Fraud",
+    "severity": "High",
+    "createdAt": "2025-12-03T14:32:00.000Z",
+    "location": {
+      "lat": 12.929504103651388,
+      "lng": 77.61044709808823
+    },
+    "metrics": {
+      "score": 21,
+      "confidence": 0.4,
+      "impact": 0
+    },
+    "tags": [
+      "policy-violation",
+      "credit-card"
+    ]
+  },
+  {
+    "id": "a7973d30-f5bf-4d9b-9d55-f60db1c8182e",
+    "title": "Sales Alert in Hyderabad",
+    "description": "Detected potential Sales issue with severity High.",
+    "category": "Sales",
+    "severity": "High",
+    "createdAt": "2025-11-26T16:04:00.000Z",
+    "location": {
+      "lat": 17.387336133209928,
+      "lng": 78.51852920067556
+    },
+    "metrics": {
+      "score": 19,
+      "confidence": 0.48,
+      "impact": 1
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "ed08b2a2-82c8-482f-9449-7271d2041d23",
+    "title": "Ops Alert in Bangalore",
+    "description": "Detected potential Ops issue with severity High.",
+    "category": "Ops",
+    "severity": "High",
+    "createdAt": "2026-01-29T18:14:00.000Z",
+    "location": {
+      "lat": 12.99739091399899,
+      "lng": 77.61959827357154
+    },
+    "metrics": {
+      "score": 51,
+      "confidence": 0.84,
+      "impact": 8
+    },
+    "tags": [
+      "credit-card"
+    ]
+  },
+  {
+    "id": "538ceb10-bafd-4f6a-ae86-f6858d62fcb4",
+    "title": "Ops Alert in Mumbai",
+    "description": "Detected potential Ops issue with severity Medium.",
+    "category": "Ops",
+    "severity": "Medium",
+    "createdAt": "2025-11-30T17:57:00.000Z",
+    "location": {
+      "lat": 19.094284621503604,
+      "lng": 72.86818903907364
+    },
+    "metrics": {
+      "score": 52,
+      "confidence": 0.71,
+      "impact": 10
+    },
+    "tags": [
+      "anomaly",
+      "high-rate"
+    ]
+  },
+  {
+    "id": "069306a8-6050-4e67-9fd5-43ba8aff7ea7",
+    "title": "Fraud Alert in Ahmedabad",
+    "description": "Detected potential Fraud issue with severity Medium.",
+    "category": "Fraud",
+    "severity": "Medium",
+    "createdAt": "2026-01-26T20:10:00.000Z",
+    "location": {
+      "lat": 23.05040588801689,
+      "lng": 72.53932658839024
+    },
+    "metrics": {
+      "score": 29,
+      "confidence": 0.87,
+      "impact": 3
+    },
+    "tags": [
+      "high-rate",
+      "anomaly",
+      "network-error"
+    ]
+  },
+  {
+    "id": "c819edc0-9541-4cee-a8e5-5c690c1e05cb",
+    "title": "Health Alert in Delhi",
+    "description": "Detected potential Health issue with severity Medium.",
+    "category": "Health",
+    "severity": "Medium",
+    "createdAt": "2025-11-13T20:36:00.000Z",
+    "location": {
+      "lat": 28.686271120303292,
+      "lng": 77.093896821623
+    },
+    "metrics": {
+      "score": 36,
+      "confidence": 0.99,
+      "impact": 8
+    },
+    "tags": [
+      "credit-card",
+      "high-rate"
+    ]
+  }
+]
